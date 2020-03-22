@@ -257,10 +257,6 @@ Por último e não menos importante, adicionaremos o input onde será mostrado o
                 .
 ``````````````````````````````````
 
-O resultado da nossa calculadora será:
-
-<img src="../../Calculadora/Medium/img/calculadoraCss.png" >
-
 Observe que foram utilizados os tamanhos "col-sm-12 col-md-12 col-lg-12" para todos os botões. Esse é sistema de Grid do Bootstrap, onde o tamanho máximo é sempre 12, podem varias as combinações até o tamanho 12 (Ex: 3 6 3).Nessa calculadora foi utilizado o tamanho máximo as telas xs: muito pequena, sm: pequena, md: grande, lg: muito grande.
 
 Obs: Utilizei a classe "btn-warning" no botão de sinal de "=" para ficar com a cor em destaque amarelo.
